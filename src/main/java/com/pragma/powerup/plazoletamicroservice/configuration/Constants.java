@@ -14,6 +14,7 @@ public class Constants {
     public static final int MAX_PAGE_SIZE = 2;
     public static final String RESPONSE_MESSAGE_KEY = "message";
     public static final String PERSON_CREATED_MESSAGE = "Person created successfully";
+    public static final String RESTAURANT_CREATED_MESSAGE = "Restaurant created successfully";
     public static final String USER_CREATED_MESSAGE = "User created successfully";
     public static final String USER_DELETED_MESSAGE = "User deleted successfully";
     public static final String RESPONSE_ERROR_MESSAGE_KEY = "error";
@@ -32,4 +33,7 @@ public class Constants {
     public static final String SWAGGER_LICENSE_NAME_MESSAGE = "Apache 2.0";
     public static final String SWAGGER_LICENSE_URL_MESSAGE = "http://springdoc.org";
     public static final String SWAGGER_TERMS_OF_SERVICE_MESSAGE = "http://swagger.io/terms/";
+    public static final String OWNER_ALREADY_ASSIGNERD_MESSAGE = "Owner Already Assigned";
+    public static final String RESTAURANT_ALREADY_EXISTS_MESSAGE = "Restaurant already exists";
+
 }
